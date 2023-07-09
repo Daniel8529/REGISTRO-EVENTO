@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "orfuD2vlIfsCFhic0EHemstC4Cd3++9Nj9zBpnZESCuAEosPACs76Gxnz4InOuiO1Xg57IkvOvAifn/zLj6psw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Proyecto de computacion en redes\\Registro_venta_boleta\\Registro_venta_boleta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
